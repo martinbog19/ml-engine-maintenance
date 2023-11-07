@@ -2,6 +2,6 @@
 
 15.095 Machine Learning Under a Modern Optimization Lens - Martin Bogaert & Rory Wilson
 
-**Detecting Pneumonia from Chest X-Ray Images**
+**Predicting Remaining Useful Life of Aircraft Engines**
 
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
